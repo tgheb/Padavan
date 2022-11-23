@@ -4,5 +4,5 @@
 # Xiaomi-AC2100 # Xiaomi-AC2100   # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_JDC_1_5
+CFLAGS += -DBOARD_JDC-1-5
 BOARD_NUM_USB_PORTS=1
